@@ -42,7 +42,7 @@ Each problem folder contains:
 - A **Jupyter Notebook (`solution.ipynb`)** that presents the problem, your code solution, visualizations, and step-by-step explanation.
 - An optional **explanation file (`explanation.md`)** for additional details and insights.
 
-## How to Use This Repository
+## How to Use This Repository.
 
 1. **Clone the Repository:**
    ```bash
